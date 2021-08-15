@@ -7,6 +7,7 @@ public class Sample01 {
 		System.out.println("TestNG");
 		System.out.println("Selenium");
 		System.out.println("Java");
+		System.out.println("cucumber");
 	}
 
 }
